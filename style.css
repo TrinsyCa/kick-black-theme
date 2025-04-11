@@ -1,0 +1,21 @@
+::selection {
+    background: #53FC18;
+    color: white;
+  }
+  :root {
+       --background-color: black;   
+  }
+  video.outline-none {
+    border-radius: 18px;
+  }
+  .bg-surface-lower,
+  .bg-grey-950 {
+      background: black;
+  }
+  .lg\:bg-shade-base,
+  .bg-shade-lower,
+  .\!bg-surface-tint {
+      background: #080808;
+    border-radius: 30px;
+    box-shadow: 0 0 10px 3px #080808;
+  }
